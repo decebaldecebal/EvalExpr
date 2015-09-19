@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1442663253 source:c:\program files (x86)\codeblocks\workspaces\evalexpr\main.c
+	"evalexpr.h"
+
+1442662113 c:\program files (x86)\codeblocks\workspaces\evalexpr\evalexpr.h
+	<unistd.h>
+	<stdlib.h>
+
+1442662663 source:c:\program files (x86)\codeblocks\workspaces\evalexpr\ft_utils.c
+	"evalexpr.h"
+
+1442663261 source:c:\program files (x86)\codeblocks\workspaces\evalexpr\ft_numbers.c
+	"evalexpr.h"
+
+1442523861 source:c:\program files (x86)\codeblocks\workspaces\evalexpr\ft_lists.c
+	"evalexpr.h"
+
+1442663243 source:c:\program files (x86)\codeblocks\workspaces\evalexpr\ft_calc.c
+	"evalexpr.h"
+
